@@ -16,7 +16,6 @@ Automatically opens and closes a window based on indoor temperature using a serv
 ---
 
 ## Running the Project
-
 ### 1. Upload Arduino Code
 1. Open `scripts/Servo_temp.ino` in Arduino IDE
 2. Install libraries: `Servo`, `LiquidCrystal_I2C`, `SparkFun_APDS9960`
